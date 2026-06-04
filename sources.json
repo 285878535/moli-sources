@@ -24,6 +24,17 @@
       "name": "非凡",
       "api": "http://api.ffzyapi.com/api.php/provide/vod/at/xml/",
       "type": "auto"
+    },
+    {
+      "name": "猫眼",
+      "api": "https://api.maoyanapi.top/api.php/provide/vod",
+      "type": "auto"
+    },
+    {
+       "name": "黑木耳",
+      "api": "https://api.yyzy-tv.vip/inc/apijson.php",
+      "type": "auto"
+      
     }
     
   ]
