@@ -6,11 +6,6 @@
       "type": "auto"
     },
     {
-      "name": "豆瓣",
-      "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/xml/",
-      "type": "auto"
-    },
-    {
       "name": "爱奇艺",
       "api": "https://www.iqiyizyapi.com/api.php/provide/vod/at/xml/",
       "type": "auto"
