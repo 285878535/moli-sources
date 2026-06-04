@@ -22,7 +22,7 @@
     },
     {
       "name": "非凡",
-      "api": "https://svip.ffzyplay.com/?url=",
+      "api": "http://api.ffzyapi.com/api.php/provide/vod/at/xml/",
       "type": "auto"
     },
     
