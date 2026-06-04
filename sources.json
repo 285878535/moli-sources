@@ -1,0 +1,24 @@
+{
+  "sites": [
+    {
+      "name": "金鹰",
+      "api": "https://jyzyapi.com/provide/vod/at/xml/",
+      "type": "auto"
+    },
+    {
+      "name": "豆瓣",
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/xml/",
+      "type": "auto"
+    },
+    {
+      "name": "爱奇艺",
+      "api": "https://www.iqiyizyapi.com/api.php/provide/vod/at/xml/",
+      "type": "auto"
+    },
+    {
+      "name": "茅台",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
+      "type": "auto"
+    },
+  ]
+}
