@@ -20,5 +20,11 @@
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
       "type": "auto"
     },
+    {
+      "name": "非凡",
+      "api": "https://svip.ffzyplay.com/?url=,
+      "type": "auto"
+    },
+    
   ]
 }
